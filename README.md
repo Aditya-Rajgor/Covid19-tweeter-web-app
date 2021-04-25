@@ -25,9 +25,14 @@
 - forgot to add video to my linkedin post
 - It isn't necessary that you get attention for your effort
 
+### main.py is the web-app python file with snscrape librar, you can run it locally.
+### India_2nd_wave_analysis.ipynb is for generating the below graphs
+
 <img src='city_2nd_wave_counts.png' height=250> <img src='city_over_time.png' height=250>
 
 ## Contact Me for any bug report or feedback
 - [LinkedIn](https://www.linkedin.com/in/aditya-rajgor/)
 - <a href = "mailto:adityarajgor88@gmail.com?subject=Feedback regarding web-app&body=Thanks for considering,...">Mail</a>
 - [Working demo](https://www.loom.com/share/3c2d3eda08d04f7c9c9bfae0ab1bdf08)
+
+## Goodlcuk with your errors, until then peace !
