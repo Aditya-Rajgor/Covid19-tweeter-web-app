@@ -28,7 +28,7 @@
 ### main.py is the web-app python file with snscrape librar, you can run it locally.
 ### India_2nd_wave_analysis.ipynb is for generating the below graphs
 
-<img src='city_2nd_wave_counts.png' height=250> <img src='city_over_time.png' height=250>
+<img src='city_2nd_wave_counts.png' height=200> <img src='city_over_time.png' height=200>
 
 ## Contact Me for any bug report or feedback
 - [LinkedIn](https://www.linkedin.com/in/aditya-rajgor/)
