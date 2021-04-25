@@ -25,7 +25,7 @@
 - forgot to add video to my linkedin post
 - It isn't necessary that you get attention for your effort
 
-<img src='city_over_2nd_wave.png' height=210> <img src='2nd_wave.png' height=210>
+<img src='city_2nd_wave_counts.png' height=250> <img src='city_over_time.png' height=250>
 
 ## Contact Me for any bug report or feedback
 - [LinkedIn](https://www.linkedin.com/in/aditya-rajgor/)
